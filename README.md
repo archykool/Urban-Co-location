@@ -6,7 +6,7 @@ This repository contains the research pipeline for studying urban co-location pa
 Come and check our results here! https://r-li.com/urban-colocation-intelligence/
 
 ##  Poster
-
+![Poster](./4_24_Poster_Template.png)
 
 ##  Research Pipeline
 
