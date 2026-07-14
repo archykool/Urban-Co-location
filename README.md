@@ -2,6 +2,12 @@
 
 This repository contains the research pipeline for studying urban co-location patterns in London. For this study, we select Canary Wharf as our primary research sample to investigate how various urban activities spatially and temporally co-locate through the integration of mobility data, Point of Interest (POI) datasets, and network analysis.
 
+##  Interactive Platform
+Come and check our results here! https://r-li.com/urban-colocation-intelligence/
+
+##  Poster
+
+
 ##  Research Pipeline
 
 | Step | Task | Description |
